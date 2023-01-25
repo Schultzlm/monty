@@ -3,6 +3,7 @@
  * f_push - adding node to the stack
  * @head: The stack head
  * @counter: the line_number
+ *
  * Return: nothing to return
  */
 void f_push(stack_t **head, unsigned int counter)
